@@ -16,6 +16,18 @@ function App() {
           timeout={3000} //3 secs
         />
         <SearchCity />
+        <br />
+        <footer>
+          <a
+            href="https://github.com/Oksana796/weather-react"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="GitHub-link"
+          >
+            Open-source code
+          </a>{" "}
+          by Oksana Haydeychuk
+        </footer>
       </header>
     </div>
   );
