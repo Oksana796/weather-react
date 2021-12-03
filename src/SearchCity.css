@@ -16,7 +16,8 @@ ul {
   text-align: left;
 }
 footer {
-  font-size: 14px;
+  font-size: 12px;
+  margin-top: 80px;
 }
 a {
   color: rgb(39, 36, 66);
