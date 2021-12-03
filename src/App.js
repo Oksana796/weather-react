@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Loader from "react-loader-spinner";
+import axios from "axios";
 
 function App() {
   return (
