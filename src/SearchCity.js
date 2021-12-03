@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import axios from "axios";
-//import "./styles.css";
+import "./SearchCity.css";
 
 export default function SearchCity(props) {
   let [city, setCity] = useState(null);
