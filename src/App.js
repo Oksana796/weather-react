@@ -1,7 +1,6 @@
 //import logo from "./logo.svg";
 import "./App.css";
 import Loader from "react-loader-spinner";
-
 import SearchCity from "./SearchCity";
 
 function App() {
