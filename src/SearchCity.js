@@ -17,6 +17,7 @@ export default function SearchCity(props) {
     event.preventDefault();
     setText(`In ${city}`);
 
+    
     let units = `metric`;
     let apiKey = `991998db0badeb6d622936ac5a6c4c2e`;
     let apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=${units}`;
